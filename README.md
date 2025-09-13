@@ -5,12 +5,12 @@ The Yandex Disk Downloader Tool is a simple Python script that allows users to d
 Installation
 Installation Requirement
 
-  pip install requests
+  ```pip install requests```
 Usage/Examples
 To use the tool, follow these steps:
 
 Run the following command in your terminal:
-python3 YandexCLI.py -l <yandex_link> -d <download_location>
+```python3 YandexCLI.py -l <yandex_link> -d <download_location>```
 
 Replace <yandex_link> with the link to the file you want to download from Yandex Disk, and <download_location> with the directory where you want to save the downloaded file.
 
